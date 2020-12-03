@@ -2,7 +2,7 @@
 
 Tugas Kelompok untuk Mata Kuliah Pemrograman Web Lanjut
 
-Dilakukan oleh kelompok : Kelompok Pemrograman Web Lanjut
+Dilakukan oleh kelompok ber anggota
 
 Muhammad Hafizh Andifaisa : 175150701111009
 Adhitya Aryo Wibowo : 175150700111016
